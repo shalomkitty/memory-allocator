@@ -1,0 +1,10 @@
+*.o
+*.so
+*.out
+*.log
+*.gcda
+*.gcno
+*.gcov
+/tests/test_allocator
+/.upstream-tests/
+/official-tests.log
